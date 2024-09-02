@@ -33,9 +33,11 @@ h3 {
 .wrapper{
   width: 500px; 
   margin: 0 auto;
+  max-width: 100%; 
 }
 
 img.party{
   width:400px;
+  max-width: 100%; 
 }
 </style>
